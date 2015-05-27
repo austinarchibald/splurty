@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty: Quotes Generator Application
 
-Things you may want to cover:
+![](http://www.thefirehoseproject.com/assets/icons/sp_w-c51ab21d2828ad057e4861a7a17a49f8.png)
 
-* Ruby version
+via [theFirehoseProject Bootcamp](http://thefirehoseproject.com)
 
-* System dependencies
+Launch your first web app and get a 360 degree overview. Write HTML, CSS3 and Ruby code on the Rails framework, and wrap a database powered application into a slick mobile first design. Use professional web development tools like Sublime, Terminal, postgres, GitHub, and Heroku to launch new features consistently.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This example of splurty features quotes about anarcho-capitalism. View it live at [Heroku](http://anarcho-quotes.herokuapp.com).
