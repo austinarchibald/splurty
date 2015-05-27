@@ -2,7 +2,7 @@
 
 Splurty: Quotes Generator Application
 
-![](http://www.thefirehoseproject.com/assets/icons/sp_w-c51ab21d2828ad057e4861a7a17a49f8.png)
+![icon](http://www.thefirehoseproject.com/assets/icons/sp_w-c51ab21d2828ad057e4861a7a17a49f8.png)
 
 via [theFirehoseProject Bootcamp](http://thefirehoseproject.com)
 
