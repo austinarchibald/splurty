@@ -2,8 +2,6 @@
 
 Splurty: Quotes Generator Application
 
-http://www.thefirehoseproject.com/assets/icons/sp_w-c51ab21d2828ad057e4861a7a17a49f8.png
-
 via {theFirehoseProject Bootcamp}[http://thefirehoseproject.com]
 
 Launch your first web app and get a 360 degree overview. Write HTML, CSS3 and Ruby code on the Rails framework, and wrap a database powered application into a slick mobile first design. Use professional web development tools like Sublime, Terminal, postgres, GitHub, and Heroku to launch new features consistently.
