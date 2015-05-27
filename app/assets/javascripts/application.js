@@ -15,3 +15,10 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+$( document ).ready(function() {
+    console.log( "ready!" );
+	$("#saying-field").on("keyup", function(){
+    	length = $(this).val().length;
+    	$("#saying-count").html(length);
+	});
+});

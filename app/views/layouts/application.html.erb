@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Splurty</title>
+  <title>Anarchquotes for Liberty</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
@@ -44,7 +44,8 @@
         </div>
         <%= simple_form_for Quote.new do |f| %>
           <div class="modal-body">
-            <%= f.input :saying, :label => "What is the quote you want to add?", :placeholder => "Truth is treason in an empire of lies." %>
+            <%= f.input :saying, :label => "What is the quote you want to add?", :placeholder => "Truth is treason in an empire of lies.", id: "saying-field" %>
+            <span id="saying-count">0</span>/400 char
             <br />
             <%= f.input :author, :label => "Who is the author of the quote?", :placeholder => "Ron Paul" %>
           </div>
