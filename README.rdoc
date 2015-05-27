@@ -2,10 +2,10 @@
 
 Splurty: Quotes Generator Application
 
-<img src="http://www.thefirehoseproject.com/assets/icons/sp_w-c51ab21d2828ad057e4861a7a17a49f8.png" />
+[http://www.thefirehoseproject.com/assets/icons/sp_w-c51ab21d2828ad057e4861a7a17a49f8.png]
 
-via <a href="http://thefirehoseproject.com">theFirehoseProject Bootcamp</a>
+via {theFirehoseProject Bootcamp}[http://thefirehoseproject.com]
 
 Launch your first web app and get a 360 degree overview. Write HTML, CSS3 and Ruby code on the Rails framework, and wrap a database powered application into a slick mobile first design. Use professional web development tools like Sublime, Terminal, postgres, GitHub, and Heroku to launch new features consistently.
 
-This example of splurty features quotes about anarcho-capitalism. View it live at <a href="http://anarcho-quotes.herokuapp.com">Heroku</a>.
+This example of splurty features quotes about anarcho-capitalism. View it live at {Heroku}[http://anarcho-quotes.herokuapp.com].
